@@ -11,6 +11,8 @@ const Navbar = () => {
         <li><a href="/audio">Audio</a></li>
         <li><a href="/video">Video</a></li>
         <li><a href="/image">image</a></li>
+        <li><a href="/image">updates</a></li>
+
       </ul>
       <div className="navbar-toggle">&#9776;</div>
     </nav>
