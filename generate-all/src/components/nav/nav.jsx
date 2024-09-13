@@ -14,6 +14,8 @@ const Navbar = () => {
       </ul>
       <div className="navbar-toggle">&#9776;</div>
     </nav>
+
+    
   );
 };
 
