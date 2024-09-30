@@ -4,7 +4,7 @@
 > ![GitHub forks](https://img.shields.io/github/forks/generate-all/generate-all-in-one.git?style=social)
 > ![GitHub issues](https://img.shields.io/github/issues/generate-all/generate-all-in-one.git)
 > 
-> ---
+> 
 > 
 > ## 🌟 Overview
 > 
