@@ -10,7 +10,6 @@
 > 
 > Thank you for visiting our repository! This project is dedicated to [purpose of the project]. Whether you're here to contribute or just browse, we hope you find everything you need.
 > 
-> ---
 > 
 > ## 🏗️ Features
 > 
